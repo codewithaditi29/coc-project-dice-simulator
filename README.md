@@ -7,4 +7,5 @@ This project simulates rolling two six-sided dice one million times and displays
 The Concepts that are used
 
 -C Programming: for loop,arrays,functions,rand(), printf().
+
 -Mathematics concepts: Probabilty Distribution, Data Analysis,Stochastic Modelling. 
